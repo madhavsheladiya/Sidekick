@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/Project_Login/app/src/main/res/layout/activity_accomodation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/Project_Login/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/Project_Login/app/src/main/res/layout/activity_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/User/Desktop/Project_Login/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable/btn_bg.xml" value="0.17407407407407408" />
+        <entry key="app/src/main/res/drawable/ic_facebook.xml" value="0.17407407407407408" />
+        <entry key="app/src/main/res/drawable/input_bg.xml" value="0.17407407407407408" />
+        <entry key="app/src/main/res/drawable/input_bug.xml" value="0.17407407407407408" />
+        <entry key="app/src/main/res/drawable/job_post_button.xml" value="0.18796296296296297" />
+        <entry key="app/src/main/res/layout/activity.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_accomodation.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_all_job.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_allrides.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/activity_faq_main.xml" value="0.21784420289855072" />
+        <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_inser_ride.xml" value="0.14673913043478262" />
+        <entry key="app/src/main/res/layout/activity_insert_job_post.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_insert_ride.xml" value="0.14673913043478262" />
+        <entry key="app/src/main/res/layout/activity_job_details.xml" value="0.15260416666666668" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2500726391010922" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1328125" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.21784420289855072" />
+        <entry key="app/src/main/res/layout/activity_nearby.xml" value="0.21784420289855072" />
+        <entry key="app/src/main/res/layout/activity_parttime.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_post_job.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_post_ride_item.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_postride.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_postride_insert.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_requestride.xml" value="0.14673913043478262" />
+        <entry key="app/src/main/res/layout/activity_ride_details.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/activity_rideshare.xml" value="0.1526268115942029" />
+        <entry key="app/src/main/res/layout/activity_see_all_rides.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_sim_sin1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sim_sin2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sim_sin3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sim_sin4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sim_sin5.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/alljobpost.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/allrides.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/job_post_item.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/post_ride_item.xml" value="0.14673913043478262" />
+        <entry key="app/src/main/res/layout/request_ride_item.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/row.xml" value="0.21784420289855072" />
+        <entry key="app/src/main/res/layout/rows.xml" value="0.21784420289855072" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/menu/mainmenu.xml" value="0.28974358974358977" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23743589743589744" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".RideDetailsActivity"
+    >
+
+    <include layout="@layout/toolbar"
+        android:id="@+id/toolbar_ride_details"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name:"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_margin="5dp"
+        android:maxLines="1"
+        android:textColor="@android:color/black"
+        android:id="@+id/RD_person_name"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10 Nov, 2021"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:layout_margin="5dp"
+        android:textColor="@color/blue"
+        android:id="@+id/RD_date"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="From"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:id="@+id/RD_from"
+        android:maxLines="1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:id="@+id/RD_to"
+        android:maxLines="1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ride on (date)"
+        android:layout_margin="5dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:maxLines="1"
+        android:textColor="@color/black"
+        android:id="@+id/RD_date_on"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seats Needed"
+        android:layout_margin="5dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/black"
+        android:id="@+id/RD_seats"
+        android:maxLines="1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Luggage Information"
+        android:layout_margin="5dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/black"
+        android:id="@+id/RD_luggage_info"
+        android:maxLines="3"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact"
+        android:layout_margin="5dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/black"
+        android:id="@+id/RD_contact"
+        android:maxLines="1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Budget"
+        android:layout_margin="5dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/black"
+        android:id="@+id/RD_Budget"
+        />
+
+</LinearLayout>
